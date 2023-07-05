@@ -1,3 +1,5 @@
+Before using, clone https://github.com/wangbo00129/largedataloader besides this repo's folder. 
+
 Usage: ChangablePipeline.py [-h] [--path_svs PATH_SVS] [--path_xml PATH_XML] [--str_normalizer STR_NORMALIZER] [--str_writer_before_norm STR_WRITER_BEFORE_NORM] [--str_writer_after_norm STR_WRITER_AFTER_NORM]
 
                             [--path_output_before_norm PATH_OUTPUT_BEFORE_NORM] [--path_output_after_norm PATH_OUTPUT_AFTER_NORM] [--use_cucim USE_CUCIM] [--read_region_device READ_REGION_DEVICE]
